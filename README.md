@@ -22,6 +22,8 @@ Ce projet héberge le serveur de découverte de services (Service Registry) de n
 
 Ouvrez votre navigateur et accédez au tableau de bord Eureka : `http://localhost:8761`.
 Après le démarrage des autres microservices, vous devriez les voir s'enregistrer et apparaître dans la liste des instances disponibles.
+<img width="1808" height="966" alt="image" src="https://github.com/user-attachments/assets/7055fe0e-9432-41a5-9fbc-540694f8be1a" />
+
 
 ---
 
